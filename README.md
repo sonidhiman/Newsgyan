@@ -1,0 +1,2 @@
+# Newsgyan
+It is a app build by using android studio as ide ,xml for gui part and java as programming language. Its a app which gives different catagorical news as one place. we have made it by fecthing many apis of differets websites. its helps to read all news at one place whether it is related to sports,disease based,corona cases,entertainment,drama,any weather news ,educational news,political news etc
